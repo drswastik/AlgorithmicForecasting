@@ -21,4 +21,3 @@ I engineered features from historical data and forecasted a 14-day trading horiz
 *   **Machine Learning (Python):** `yfinance`, `pandas`, `scikit-learn`, `xgboost`, `tensorflow` (Keras)
 
 ---
-*Note: This repository represents my independent refactoring, code optimization, and extended analysis of a project originally conceptualized for the Financial Econometrics (HS3L007) coursework.*
